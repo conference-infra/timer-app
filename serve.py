@@ -38,7 +38,7 @@ if __name__ == '__main__':
             return super().server_bind()
 
     DualStackServer.address_family, addr = _get_best_family(None, 8000)
-    with DualStackServer(addr, partial(Handler, directory='public')) as httpd:
+    with DualStackServer(addr, partial(Handler, directory='.')) as httpd:
         host, port = httpd.socket.getsockname()[:2]
         url_host = f'[{host}]' if ':' in host else host
         print(
