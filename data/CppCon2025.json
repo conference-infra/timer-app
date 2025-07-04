@@ -1,0 +1,294 @@
+[
+   {
+       "begin": "2025-09-13T09:00:00-06:00",
+       "duration": 105,
+       "name": "Saturday pre-conference class"
+   },
+   {
+       "begin": "2025-09-13T11:00:00-06:00",
+       "duration": 105,
+       "name": "Saturday pre-conference class"
+   },
+   {
+       "begin": "2025-09-13T13:30:00-06:00",
+       "duration": 90,
+       "name": "Saturday pre-conference class"
+   },
+   {
+       "begin": "2025-09-13T15:15:00-06:00",
+       "duration": 105,
+       "name": "Saturday pre-conference class"
+   },
+   {
+       "begin": "2025-09-14T09:00:00-06:00",
+       "duration": 105,
+       "name": "Sunday pre-conference class"
+   },
+   {
+       "begin": "2025-09-14T11:00:00-06:00",
+       "duration": 105,
+       "name": "Sunday pre-conference class"
+   },
+   {
+       "begin": "2025-09-14T13:30:00-06:00",
+       "duration": 90,
+       "name": "Sunday pre-conference class"
+   },
+   {
+       "begin": "2025-09-14T15:15:00-06:00",
+       "duration": 105,
+       "name": "Sunday pre-conference class"
+   },
+   {
+       "begin": "2025-09-14T20:00:00-06:00",
+       "duration": 120,
+       "name": "Registration Reception"
+   },
+   {
+       "begin": "2025-09-15T08:45:00-06:00",
+       "duration": 15,
+       "name": "welcome"
+   },
+   {
+       "begin": "2025-09-15T09:00:00-06:00",
+       "duration": 90,
+       "name": "opening plenary"
+   },
+   {
+       "begin": "2025-09-15T10:30:00-06:00",
+       "duration": 10,
+       "name": "conference group photo"
+   },
+   {
+       "begin": "2025-09-15T11:00:00-06:00",
+       "duration": 60,
+       "name": "Monday first breakout"
+   },
+   {
+       "begin": "2025-09-15T12:30:00-06:00",
+       "duration": 60,
+       "name": "Monday lunch / Open Content"
+   },
+   {
+       "begin": "2025-09-15T14:00:00-06:00",
+       "duration": 60,
+       "name": "Monday second breakout"
+   },
+   {
+       "begin": "2025-09-15T15:15:00-06:00",
+       "duration": 60,
+       "name": "Monday third breakout"
+   },
+   {
+       "begin": "2025-09-15T16:45:00-06:00",
+       "duration": 60,
+       "name": "Monday fourth breakout"
+   },
+   {
+       "begin": "2025-09-15T20:30:00-06:00",
+       "duration": 90,
+       "name": "Monday evening Open Content"
+   },
+   {
+       "begin": "2025-09-16T07:45:00-06:00",
+       "duration": 60,
+       "name": "Tuesday morning Open Content"
+   },
+   {
+       "begin": "2025-09-16T09:00:00-06:00",
+       "duration": 60,
+       "name": "Tuesday first breakout"
+   },
+   {
+       "begin": "2025-09-16T10:30:00-06:00",
+       "duration": 90,
+       "name": "Tuesday plenary"
+   },
+   {
+       "begin": "2025-09-16T12:30:00-06:00",
+       "duration": 60,
+       "name": "Tuesday lunch Open Content"
+   },
+   {
+       "begin": "2025-09-16T14:00:00-06:00",
+       "duration": 60,
+       "name": "Tuesday second breakout"
+   },
+   {
+       "begin": "2025-09-16T15:15:00-06:00",
+       "duration": 60,
+       "name": "Tuesday third breakout"
+   },
+   {
+       "begin": "2025-09-16T16:45:00-06:00",
+       "duration": 60,
+       "name": "Tuesday fourth breakout"
+   },
+   {
+       "begin": "2025-09-16T20:30:00-06:00",
+       "duration": 90,
+       "name": "Tuesday evening Open Content"
+   },
+   {
+       "begin": "2025-09-17T07:45:00-06:00",
+       "duration": 60,
+       "name": "Wednesday Open Content"
+   },
+   {
+       "begin": "2025-09-17T09:00:00-06:00",
+       "duration": 60,
+       "name": "Wednesday first breakout"
+   },
+   {
+       "begin": "2025-09-17T10:30:00-06:00",
+       "duration": 90,
+       "name": "Wednesday plenary"
+   },
+   {
+       "begin": "2025-09-17T12:30:00-06:00",
+       "duration": 60,
+       "name": "Wednesday lunch Open Content"
+   },
+   {
+       "begin": "2025-09-17T14:00:00-06:00",
+       "duration": 60,
+       "name": "Wednesday second breakout"
+   },
+   {
+       "begin": "2025-09-17T15:15:00-06:00",
+       "duration": 60,
+       "name": "Wednesday third breakout"
+   },
+   {
+       "begin": "2025-09-17T16:45:00-06:00",
+       "duration": 60,
+       "name": "Wednesday fourth breakout"
+   },
+   {
+       "begin": "2025-09-17T20:30:00-06:00",
+       "duration": 90,
+       "name": "Wednesday evening Open Content"
+   },
+   {
+       "begin": "2025-09-18T07:45:00-06:00",
+       "duration": 60,
+       "name": "Thursday morning Open Content"
+   },
+   {
+       "begin": "2025-09-18T09:00:00-06:00",
+       "duration": 60,
+       "name": "Thursday first breakout"
+   },
+   {
+       "begin": "2025-09-18T10:30:00-06:00",
+       "duration": 90,
+       "name": "Thursday plenary"
+   },
+   {
+       "begin": "2025-09-18T12:30:00-06:00",
+       "duration": 60,
+       "name": "Thursday lunch Open Content"
+   },
+   {
+       "begin": "2025-09-18T14:00:00-06:00",
+       "duration": 60,
+       "name": "Thursday second breakout"
+   },
+   {
+       "begin": "2025-09-18T15:15:00-06:00",
+       "duration": 60,
+       "name": "Thursday third breakout"
+   },
+   {
+       "begin": "2025-09-18T16:45:00-06:00",
+       "duration": 60,
+       "name": "Thursday fourth breakout"
+   },
+   {
+       "begin": "2025-09-18T20:30:00-06:00",
+       "duration": 90,
+       "name": "Thursday evening Open Content"
+   },
+   {
+       "begin": "2025-09-19T07:45:00-06:00",
+       "duration": 45,
+       "name": "Friday morning Open Content"
+   },
+   {
+       "begin": "2025-09-19T09:00:00-06:00",
+       "duration": 60,
+       "name": "Friday first breakout"
+   },
+   {
+       "begin": "2025-09-19T10:30:00-06:00",
+       "duration": 60,
+       "name": "Friday second breakout"
+   },
+   {
+       "begin": "2025-09-19T12:00:00-06:00",
+       "duration": 60,
+       "name": "Friday lunch Open Content"
+   },
+   {
+       "begin": "2025-09-19T13:30:00-06:00",
+       "duration": 60,
+       "name": "Friday third breakout"
+   },
+   {
+       "begin": "2025-09-19T14:45:00-06:00",
+       "duration": 60,
+       "name": "Friday fourth breakout"
+   },
+   {
+       "begin": "2025-09-19T16:15:00-06:00",
+       "duration": 90,
+       "name": "closing plenary"
+   },
+   {
+       "begin": "2025-09-19T17:45:00-06:00",
+       "duration": 15,
+       "name": "closing"
+   },
+   {
+       "begin": "2025-09-20T09:00:00-06:00",
+       "duration": 105,
+       "name": "Saturday post-conference class"
+   },
+   {
+       "begin": "2025-09-20T11:00:00-06:00",
+       "duration": 105,
+       "name": "Saturday post-conference class"
+   },
+   {
+       "begin": "2025-09-20T13:30:00-06:00",
+       "duration": 90,
+       "name": "Saturday post-conference class"
+   },
+   {
+       "begin": "2025-09-20T15:15:00-06:00",
+       "duration": 105,
+       "name": "Saturday post-conference class"
+   },
+   {
+       "begin": "2024-09-21T09:00:00-06:00",
+       "duration": 105,
+       "name": "Sunday post-conference class"
+   },
+   {
+       "begin": "2024-09-21T11:00:00-06:00",
+       "duration": 105,
+       "name": "Sunday post-conference class"
+   },
+   {
+       "begin": "2024-09-21T13:30:00-06:00",
+       "duration": 90,
+       "name": "Sunday post-conference class"
+   },
+   {
+       "begin": "2024-09-21T15:15:00-06:00",
+       "duration": 105,
+       "name": "Sunday post-conference class"
+   }
+]
+
+
